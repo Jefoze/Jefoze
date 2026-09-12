@@ -80,7 +80,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=90&section=header&text=GCoins&fontSize=38&fontColor=ffffff&fontAlignY=55" width="480"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,50:1E1B4B,100:0D0B1E&height=90&section=header&text=GCoins&fontSize=38&fontColor=A78BFA&fontAlignY=55" width="480"/>
 
 <p><sub>A lightweight, high-performance economy plugin for Minecraft servers</sub></p>
 
