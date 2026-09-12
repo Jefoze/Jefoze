@@ -1,108 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Alexander&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Minecraft%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:172554,100:2563EB&text=ALEXANDER&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20DEVELOPER%20%2F%20MINECRAFT%20DEVELOPER&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![Paper](https://img.shields.io/badge/Paper-1.21+-ffffff?style=for-the-badge\&logo=minecraft\&logoColor=000000)](https://papermc.io/)
-[![Spigot](https://img.shields.io/badge/Spigot-API-EF8B2E?style=for-the-badge\&logo=minecraft\&logoColor=white)](https://www.spigotmc.org/)
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)](https://gradle.org/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)](https://maven.apache.org/)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square\&logo=linux\&logoColor=white)](https://www.linux.org/)
-
-</div>
-
----
-
-## `> whoami`
-
-**Alexander** · 16 y.o. · Uzbekistan
-
-**Middle Java Developer** focused on Minecraft development.
-
-I build **plugins, server systems and custom gameplay mechanics**.
-Currently learning **Minecraft mod development**.
-
----
-
-## `// stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,gradle,maven,git,github,idea,linux,mysql&theme=dark&perline=8" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.java.com/">
+<img src="https://img.shields.io/badge/Java-21-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+</a>
+<a href="https://papermc.io/">
+<img src="https://img.shields.io/badge/Paper-1.21+-111827?style=for-the-badge&logo=minecraft&logoColor=white"/>
+</a>
+<a href="https://www.spigotmc.org/">
+<img src="https://img.shields.io/badge/Spigot-API-111827?style=for-the-badge&logo=minecraft&logoColor=F59E0B"/>
+</a>
 
 <br><br>
 
-![Paper](https://img.shields.io/badge/Paper-1.21+-ffffff?style=flat-square\&logo=minecraft\&logoColor=black)
-![Spigot](https://img.shields.io/badge/Spigot-API-EF8B2E?style=flat-square\&logo=minecraft\&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-API-1B1B1B?style=flat-square\&logo=minecraft\&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-Economy-5865F2?style=flat-square)
-![PlaceholderAPI](https://img.shields.io/badge/PlaceholderAPI-API-7289DA?style=flat-square)
+**16 y.o. · Middle Java Developer · Minecraft**
+
+*Building plugins and systems for Minecraft servers.*
 
 </div>
 
 ---
 
-## `// projects`
-
-### 🪙 GCoins
-
-**Minecraft Economy Plugin**
-
-`Java` `Paper` `Vault` `Database` `GUI`
-
-> Economy system with balances, transfers, transaction history, offline players and an interactive GUI.
-
----
-
-### 📹 GribCam
-
-**Minecraft CCTV System**
-
-`Java` `Paper` `GUI` `Spectator`
-
-> Camera and computer system for Minecraft servers with camera switching, terminal GUI and player controls.
-
----
-
-### 🎁 JackCases
-
-**Minecraft Cases Plugin**
-
-`Java` `Spigot` `GUI` `YAML`
-
-> Custom case system with rarities, rewards, cosmetics and animated item rolls.
-
----
-
-## `// currently`
-
-```text
-Java                    ███████████████████░  Middle
-Minecraft Plugins      ████████████████████  Advanced
-Server Development     ███████████████████░  Middle+
-Minecraft Modding      ███████░░░░░░░░░░░░░  Learning
-```
-
----
-
-## `// github`
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+### `TECHNOLOGIES`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+<img src="https://skillicons.dev/icons?i=java,gradle,maven,git,github,idea,linux,mysql&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Paper-1.21+-2563EB?style=flat-square&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spigot-API-EF8B2E?style=flat-square&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bukkit-API-18181B?style=flat-square&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vault-Economy-5865F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/PlaceholderAPI-API-64748B?style=flat-square"/>
+
+</div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
+## `01` — Featured Project
+
+<div align="center">
+
+# 🪙 GCoins
+
+### Minecraft Economy Plugin
+
+<br>
+
+<img src="https://img.shields.io/badge/JAVA-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PAPER-1.21+-2563EB?style=flat-square&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VAULT-SUPPORT-5865F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATABASE-SYSTEM-334155?style=flat-square"/>
+
+</div>
+
+> **GCoins** is a modern economy system for Minecraft servers, built entirely with Java.
+
+```text
+Balance          →  Player economy
+Transfers        →  Online & offline players
+Transactions     →  Detailed history
+GUI              →  Interactive management
+Database         →  Persistent storage
+Integrations     →  Vault / economy systems
+```
+
+### Highlights
+
+| Feature       | Description                    |
+| :------------ | :----------------------------- |
+| `Economy`     | Complete player balance system |
+| `Transfers`   | Send coins between players     |
+| `History`     | Transaction history            |
+| `GUI`         | Modern interactive interface   |
+| `Offline`     | Works with offline players     |
+| `Database`    | Persistent player data         |
+| `Integration` | Vault-compatible economy       |
+
+---
+
+<div align="center">
+
+### `CURRENTLY LEARNING`
+
+**Minecraft Mod Development**
+
+`Java` → `Minecraft API` → `Internals` → `Mods`
+
+</div>
+
+---
+
+## `02` — GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&icon_color=60A5FA&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&langs_count=6"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B"/>
 
 </div>
 
@@ -110,8 +117,10 @@ Minecraft Modding      ███████░░░░░░░░░░░░
 
 <div align="center">
 
-### `System.out.println("Let's build something.");`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0F172A,100:2563EB&text=JAVA%20%2F%20MINECRAFT%20%2F%20BUILDING&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
+
+<br>
+
+<sub>Alexander · Java Developer · Minecraft Developer</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" />
