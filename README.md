@@ -26,8 +26,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jefoze&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&count_private=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefoze&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=6" width="330"/>
+
 
 </div>
 
