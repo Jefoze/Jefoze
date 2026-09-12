@@ -18,11 +18,34 @@
 
 <div align="center">
 
+<sub><b>GITHUB ACTIVITY</b></sub>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Jefoze&theme=dark&background=0D1117&border=6D28D9&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=FFFFFF&sideNums=C4B5FD&sideLabels=9CA3AF&dates=6B7280&hide_border=false" width="720"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jefoze&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&count_private=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefoze&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=6" width="330"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=2&section=header" width="760"/>
+</div>
+
+<br/>
+
+<div align="center">
+
 <sub><b>CORE STACK</b></sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,maven,gradle,git,idea&theme=dark" height="52"/>
+<img src="https://skillicons.dev/icons?i=java,maven,gradle,mysql,git,github,idea,linux&theme=dark" height="52"/>
 
 <br/><br/>
 
@@ -30,16 +53,16 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PaperMC-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spigot-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bukkit-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vault-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%84_Paper-5B21B6?style=for-the-badge&labelColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%B0_Spigot-6D28D9?style=for-the-badge&labelColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/%F0%9F%AA%A3_Bukkit-7C3AED?style=for-the-badge&labelColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%B0_Vault-8B5CF6?style=for-the-badge&labelColor=1E1B4B"/>
 
 <br/><br/>
 
 <sub>currently exploring</sub>
 <br/>
-<img src="https://img.shields.io/badge/Minecraft%20Mod%20Development-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Minecraft%20Mod%20Development-111827?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
