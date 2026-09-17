@@ -73,47 +73,4 @@
 
 <br/>
 
-<div align="center">
-
-<sub><b>FEATURED PROJECT</b></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,50:1E1B4B,100:0D0B1E&height=90&section=header&text=GCoins&fontSize=38&fontColor=A78BFA&fontAlignY=55" width="480"/>
-
-<p><sub>A lightweight, high-performance economy plugin for Minecraft servers</sub></p>
-
-<img src="https://img.shields.io/badge/Java-4338CA?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spigot%20API-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vault-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/GUI-8B5CF6?style=flat-square"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="600">
-
-&nbsp;⚡&nbsp;&nbsp;Vault-compatible economy API for seamless plugin integration
-<br/><br/>
-&nbsp;🖥️&nbsp;&nbsp;Custom in-game GUI for balance, transactions and shop management
-<br/><br/>
-&nbsp;💾&nbsp;&nbsp;Persistent, optimized data storage built for large player bases
-<br/><br/>
-&nbsp;🛠️&nbsp;&nbsp;Clean, extensible codebase designed for server owners and developers
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/Jefoze/GCoins">
-<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=110&section=footer&reversed=true" width="100%"/>
